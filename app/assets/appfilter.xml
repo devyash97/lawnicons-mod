@@ -1625,6 +1625,7 @@
   <item component="ComponentInfo{com.itau.iti/com.itau.iti.features.onboarding.splashpage.SplashPageActivity}" drawable="iti" name="iti" />
   <item component="ComponentInfo{com.itau.iti/com.itau.iti.features.onboarding.splashpage.SplashPageActivity}" drawable="iti" name="iti" />
   <item component="ComponentInfo{com.ivy.wallet/com.ivy.wallet.ui.IvyActivity}" drawable="ivy_wallet" name="Ivy Wallet" />
+  <item component="ComponentInfo{com.ixigo.train.ixitrain/com.ixigo.train.ixitrain.TrainActivity}" drawable="ixigo" name="Ixigo Trains" />
   <item component="ComponentInfo{com.jago.digitalBanking/com.jago.digitalBanking.MainActivity}" drawable="bank_jago" name="Jago" />
   <item component="ComponentInfo{com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity}" drawable="jakdojade" name="Jakdojade" />
   <item component="ComponentInfo{com.google.android.apps.jam/com.google.android.apps.jam.jelly.home.HomeActivity}" drawable="jamboard" name="Jamboard" />
@@ -2562,6 +2563,7 @@
   <item component="ComponentInfo{com.csdroid.pkg.pro/com.csdroid.pkg.MainActivity}" drawable="package_name_viewer" name="Package Names Pro" />
   <item component="ComponentInfo{cz.seeq.prog.android.packageviewer/cz.seeq.prog.android.packageviewer.PackagesActivity}" drawable="app_manager" name="Package Viewer" />
   <item component="ComponentInfo{com.pagerduty.android/com.pagerduty.android.PagerDutyActivity}" drawable="pager_duty" name="Pager Duty" />
+  <item component="ComponentInfo{dev.hemanths.paisa/dev.hemanths.paisa.MainActivity}" drawable="google_wallet" name="Paisa" />
   <item component="ComponentInfo{eu.bauerj.paperless_app/eu.bauerj.paperless_app.MainActivity}" drawable="paperless" name="Paperless" />
   <item component="ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}" drawable="paperless" name="Paperless Share" />
   <item component="ComponentInfo{com.parcelpendingmobile.app/com.parcelpendingmobile.app.MainActivity}" drawable="parcel_pending" name="Parcel Pending" /> 
@@ -3717,6 +3719,7 @@
   <item component="ComponentInfo{com.delsorboilario.dnd/com.delsorboilario.dnd.MainActivity}" drawable="spells_list_5e" name="Spells List 5e" />
   <item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen_}" drawable="splitwise" name="Splitwise" />
   <item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen}" drawable="splitwise" name="Splitwise" />
+  <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.appmain.MainActivity}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.features.launcher.LauncherActivity}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.music/com.duapps.ad.DuAd}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.music/com.spotify.login.loginflowimpl.LoginActivity}" drawable="spotify" name="Spotify" />
