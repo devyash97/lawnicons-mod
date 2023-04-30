@@ -3720,6 +3720,7 @@
   <item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen_}" drawable="splitwise" name="Splitwise" />
   <item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen}" drawable="splitwise" name="Splitwise" />
   <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.appmain.MainActivity}" drawable="spotify" name="Spotify Lite" />
+  <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" name="Spotify Lite" />
   <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.features.launcher.LauncherActivity}" drawable="spotify" name="Spotify Lite" />
   <item component="ComponentInfo{com.spotify.music/com.duapps.ad.DuAd}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.music/com.spotify.login.loginflowimpl.LoginActivity}" drawable="spotify" name="Spotify" />
