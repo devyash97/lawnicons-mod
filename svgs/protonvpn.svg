@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><path fill="none" stroke="#000" stroke-width="12" d="m33.386 63.659 88.008 10.183c5.61.649 8.569 6.98 5.468 11.701l-35.461 53.986-4.67 7.018c-1.89 2.843-6.123 2.668-7.774-.322m4.813 8.718c4.969 9.003 17.73 9.49 23.372.893l52.605-80.166c5.578-8.501.24-19.9-9.861-21.058l-103.4-11.856c-11.024-1.264-18.873 10.45-13.511 20.165z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="protonvpn.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="33.833333"
+     inkscape:cx="11.985222"
+     inkscape:cy="12.014778"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path2"
+     style="fill:#000000;stroke:none"
+     d="m 9.4879,18.818 0.6496,1.1368 c 0.9072,1.5877 3.178,1.6392 4.1564,0.0944 L 21.6229,8.47708 C 22.573,6.97701 21.6428,4.99802 19.8816,4.77223 L 4.8379,2.84354 C 2.86061,2.59004 1.44242,4.69492 2.4088,6.42932 l 13.6818,1.43547 c 0.7389,0.07753 1.1383,0.90527 0.739,1.53188 L 10.9738,18.5875 C 10.6362,19.1174 9.92936,19.1892 9.4879,18.818 Z M 10.1305,18.0502 4.15839,7.61837 15.9863,8.85933 Z" />
+</svg>

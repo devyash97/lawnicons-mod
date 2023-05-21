@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 50.8 50.8"><path fill="none" stroke="#010000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175" d="M43.67 16.426S40.406 5.82 26.536 5.82c-13.871 0-19.582 11.421-19.582 19.579s5.711 19.579 19.582 19.579c13.87 0 17.134-10.606 17.134-10.606s.816-2.447-1.632-4.895c-6.527-5.71-6.527 4.895-15.502 4.895-4.895 0-8.975-4.079-8.975-8.974s4.08-8.973 8.975-8.973c8.975 0 8.975 10.606 15.502 4.894 2.605-2.279 1.632-4.894 1.632-4.894z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 50.8 50.8"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="coolors.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.1145833"
+     inkscape:cx="96.236453"
+     inkscape:cy="96.236453"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="none"
+     stroke="#010000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="3.175"
+     d="M43.67 16.426S40.406 5.82 26.536 5.82c-13.871 0-19.582 11.421-19.582 19.579s5.711 19.579 19.582 19.579c13.87 0 17.134-10.606 17.134-10.606s.816-2.447-1.632-4.895c-6.527-5.71-6.527 4.895-15.502 4.895-4.895 0-8.975-4.079-8.975-8.974s4.08-8.973 8.975-8.973c8.975 0 8.975 10.606 15.502 4.894 2.605-2.279 1.632-4.894 1.632-4.894z"
+     id="path2"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+</svg>
