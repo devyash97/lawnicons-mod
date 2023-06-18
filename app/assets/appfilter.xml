@@ -604,6 +604,7 @@
   <item component="ComponentInfo{com.careem.acma/com.careem.acma.splash.SplashActivity}" drawable="careem" name="Careem" />
   <item component="ComponentInfo{com.careem.acma/com.careem.superapp.core.onboarding.activity.OnboardingActivity}" drawable="careem" name="Careem" />
   <item component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}" drawable="carnet" name="Carnet" />
+  <item component="ComponentInfo{com.itemstudio.castro/com.itemstudio.castro.base.BaseActivity}" drawable="castro" name="Castro" />  
   <item component="ComponentInfo{com.catalyst/io.kodular.thedudelikesapples.Catalyst.Screen1}" drawable="catalyst" name="Catalyst" />
   <item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" name="Catima" />
   <item component="ComponentInfo{org.nift4.catox/org.telegram.messenger.CG_Icon_Old}" drawable="catogram" name="Catogram" />
@@ -1556,7 +1557,8 @@
   <item component="ComponentInfo{com.truecaller.guardians/com.truecaller.guardians.home.HomeActivity}" drawable="guardians" name="Guardians" />
   <item component="ComponentInfo{com.porg.gugal/com.porg.gugal.MainActivity}" drawable="gugal" name="Gugal" />
   <item component="ComponentInfo{com.ovelin.guitartuna/com.yousician.yousiciannative.GuitarTunaActivity}" drawable="guitartuna" name="Guitartuna" />
-  <item component="ComponentInfo{com.guotai.dazhihui/com.gtja.home.InitScreen}" drawable="guotai" name="Guotai" />
+  <item component="ComponentInfo{com.guotai.dazhihui/com.gtja.home.InitScreen}" drawable="guotai" name="Guotai" /> 
+  <item component="ComponentInfo{com.hm.goe/com.hm.goe.app.home.HomeActivity}" drawable="h_m" name="H&M" />
   <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" name="Habitica" />
   <item component="ComponentInfo{com.jiaqifeng.hacki/com.jiaqifeng.hacki.MainActivity}" drawable="hacki" name="Hacki" />
   <item component="ComponentInfo{com.withings.wiscale2/com.withings.wiscale2.MainActivity}" drawable="healthmate" name="HaelthMate" />
@@ -2653,6 +2655,7 @@
   <item component="ComponentInfo{com.arjanvlek.oxygenupdater/com.arjanvlek.oxygenupdater.activities.SplashActivity}" drawable="oxygen_updater" name="Oxygen Updater" />
   <item component="ComponentInfo{com.arjanvlek.oxygenupdater/com.arjanvlek.oxygenupdater.views.MainActivity}" drawable="oxygen_updater" name="Oxygen Updater" />
   <item component="ComponentInfo{com.arjanvlek.oxygenupdater/com.oxygenupdater.activities.SplashActivity}" drawable="oxygen_updater" name="Oxygen Updater" />
+  <item component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}" drawable="oyo" name="OYO" />
   <item component="ComponentInfo{ru.ozon.app.android/ru.ozon.app.android.Activities.MainActivity}" drawable="ozon" name="Ozon" />
   <item component="ComponentInfo{ru.ozon.app.android/ru.ozon.app.android.ui.main.MainActivity}" drawable="ozon" name="Ozon" />
   <item component="ComponentInfo{ru.ozon.app.android/ru.ozon.app.android.ui.start.PreStartActivity}" drawable="ozon" name="Ozon" />
@@ -4687,6 +4690,7 @@
   <item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity}" drawable="youtube_kids" name="YT Kids" />
   <item component="ComponentInfo{com.yubico.yubioath/com.yubico.authenticator.MainActivity}" drawable="yubico_authenticator" name="Yubico Authenticator" />
   <item component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}" drawable="yuka" name="Yuka" />
+  <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" name="Yuzu" />
   <item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando" name="Zalando" />
   <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp" name="Zapp" />
   <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.main.MainActivity}" drawable="zapp" name="Zapp" />
@@ -4709,8 +4713,9 @@
   <item component="ComponentInfo{com.zeus.app/rideatom.app.features.SecondActivity}" drawable="zeus" name="ZEUS Deutschland" />
   <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu" name="Zhihu" />
   <item component="ComponentInfo{com.xiaolian.prometheus/com.xiaolian.launch.ui.SplashActivity}" drawable="xiaolian" name="Zhihui Xiaolian" />
-  <item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomoto" name="Zomoto" />
-  <item component="ComponentInfo{com.application.zomato/com.application.zomato.Splash}" drawable="zomoto" name="Zomoto" />
+  <item component="ComponentInfo{com.positron_it.zlib/com.positron_it.zlib.ui.splash.SplashActivity}" drawable="zlib" name="ZLib" />
+  <item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" name="Zomato" />
+  <item component="ComponentInfo{com.application.zomato/com.application.zomato.Splash}" drawable="zomato" name="Zomato" />
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom" />
   <item component="ComponentInfo{at.oebb.ts/at.oebb.ts.SplashActivity}" drawable="oebb" name="ÖBB" />
 </resources>
