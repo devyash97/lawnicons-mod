@@ -188,6 +188,8 @@
   <item component="ComponentInfo{com.vitolaminafra.imagetopip/com.vitolaminafra.imagetopip.MainActivity}" drawable="anything_to_pip" name="Anything to PiP" />
   <item component="ComponentInfo{com.shervinkoushan.anyTracker/com.shervinkoushan.anyTracker.ui.help.StartUpActivity}" drawable="anytracker" name="AnyTracker" />
   <item component="ComponentInfo{com.ea.gp.apexlegendsmobilefps/com.epicgames.ue4.GameActivity}" drawable="apex_legends" name="Apex Legends Mobile" />
+  <item component="ComponentInfo{com.ea.gp.apexlegendsmobilefps/com.epicgames.ue4.GameActivity}" drawable="apex_legends" name="Apex Legends Mobile" />
+  <item component="ComponentInfo{com.gmail.heagoo.apkeditor.pro/com.gmail.heagoo.apkeditor.MainActivity-New1}" drawable="apk_editor" name="APK Editor" />
   <item component="ComponentInfo{com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity}" drawable="apkmirror_installer" name="APKMirror Installer" />
   <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" name="Apktool M" />
   <item component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity}" drawable="app_launcher" name="App Launcher" />
@@ -616,8 +618,9 @@
   <item component="ComponentInfo{ua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Old}" drawable="catogram" name="Catogram" />
   <item component="ComponentInfo{ua.itaysonlab.messenger/org.telegram.ui.LaunchActivity}" drawable="catogram" name="Catogram" />
   <item component="ComponentInfo{cellmapper.net.cellmapper/cellmapper.net.cellmapper.MainActivity}" drawable="cellmapper" name="Cellmapper" />
-  <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="chaoxing" name="Chaoxing" />
   <item component="ComponentInfo{com.waterdaaan.chargemonitor/com.waterdaaan.chargemonitor.ui.main.MainActivity}" drawable="charge_monitor" name="Charge Monitor" />
+  <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="chaoxing" name="Chaoxing" />
+  <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatGPT" name="ChatGPT" />
   <item component="ComponentInfo{com.cheogram.android/eu.siacs.conversations.ui.ConversationsActivity}" drawable="cheogram" name="Cheogram" />
   <item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess" name="Chess" />
   <item component="ComponentInfo{com.chess/com.chess.ui.activities.MainActivity}" drawable="chess" name="Chess" />
@@ -1075,6 +1078,7 @@
   <item component="ComponentInfo{com.afkettler.pro.earth/com.afkettler.earth.LauncherActivity}" drawable="generic_earth" name="Earth &amp; Moon Pro" />
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home.SplashActivity}" drawable="easypaisa" name="Easypaisa" />
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home_rewamp.activity.HomeActivityMain}" drawable="easypaisa" name="Easypaisa" />
+  <item component="ComponentInfo{com.done.faasos/com.done.faasos.activity.MainActivity}" drawable="eatsure" name="EatSure" />
   <item component="ComponentInfo{com.ebase.banking/com.ebase.app.banking.ebase_banking_app.MainActivity}" drawable="ebasebanking" name="ebaseBanking" />
   <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay$}" drawable="ebay" name="eBay" />
   <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="ebay" name="eBay" />
@@ -1214,6 +1218,7 @@
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher7}" drawable="flamingo" name="Flamingo" />
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher9}" drawable="flamingo" name="Flamingo" />
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.MainActivity}" drawable="flamingo" name="Flamingo" />
+  <item component="ComponentInfo{com.cyb3rko.flashdim/com.cyb3rko.flashdim.activities.MainActivity}" drawable="flashlight" name="FlashDim" />
   <item component="ComponentInfo{com.tneb.tangedco/com.tneb.tangedco.TangedcoSplashActivity}" drawable="flasher" name="Flasher" />
   <item component="ComponentInfo{com.tneb.tangedco/com.tneb.tangedco.views.SplashActivity}" drawable="flasher" name="Flasher" />
   <item component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.MainActivity}" drawable="flashlight" name="Flashlight" />
@@ -4189,6 +4194,7 @@
   <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.business.startup.view.StartupActivity}" drawable="themes" name="Themes" />
   <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" name="Themes" />
   <item component="ComponentInfo{com.sysops.thenx/com.sysops.thenx.parts.splash.SplashActivity}" drawable="thenx" name="THENX" />
+  <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcleonaActivity}" drawable="threads" name="Threads" />  
   <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" name="Threema" />
   <item component="ComponentInfo{ch.threema.app.fdroid/ch.threema.app.activities.MainActivity}" drawable="threema" name="Threema" />
   <item component="ComponentInfo{ch.threema.app.hws/ch.threema.app.activities.MainActivity}" drawable="threema" name="Threema" />
