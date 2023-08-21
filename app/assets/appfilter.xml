@@ -1079,6 +1079,7 @@
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home.SplashActivity}" drawable="easypaisa" name="Easypaisa" />
   <item component="ComponentInfo{pk.com.telenor.phoenix/pk.com.telenor.phoenix.views.home_rewamp.activity.HomeActivityMain}" drawable="easypaisa" name="Easypaisa" />
   <item component="ComponentInfo{com.done.faasos/com.done.faasos.activity.MainActivity}" drawable="eatsure" name="EatSure" />
+    <item component="ComponentInfo{com.done.faasos/com.done.faasos.activity.SplashActivity}" drawable="eatsure" name="EatSure" />
   <item component="ComponentInfo{com.ebase.banking/com.ebase.app.banking.ebase_banking_app.MainActivity}" drawable="ebasebanking" name="ebaseBanking" />
   <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay$}" drawable="ebay" name="eBay" />
   <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="ebay" name="eBay" />
